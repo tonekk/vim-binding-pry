@@ -1,4 +1,7 @@
 # vim-binding-pry
+
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://tonekk.mit-license.org)
+
 Syntax highlighting for binding.pry and binding.remote-pry
 
 ## Install
