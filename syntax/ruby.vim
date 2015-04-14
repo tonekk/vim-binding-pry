@@ -1,5 +1,6 @@
 syntax keyword bindingPry
-      \ binding.pry
-      \ binding.remote-pry
+      \ binding
+      \ pry
+      \ remote_pry
 
 highlight link bindingPry Error
